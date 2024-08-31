@@ -1,0 +1,40 @@
+.shapes
+{
+    display: grid;
+    grid-template-columns: 150px 200px;
+    background-color: aqua;
+    width: 300px;
+    height: 500px;
+    justify-content: space-between;
+    align-items: stretch;
+}
+.sh-1
+{
+    background-color: rgb(255, 255, 2);
+    width: 70px;
+    height: 90px;
+}
+.sh-2
+{
+    background-color: rgb(98, 28, 219);
+    width: 60px;
+    height: 80px;
+}
+.sh-3
+{
+    background-color: crimson;
+    width: 90px;
+    height: 100px;
+}
+.sh-4
+{
+    background-color: rgba(243, 169, 10, 0.952);
+    width: 80px;
+    height: 80px;
+}
+.sh-5
+{
+    background-color: rgb(240, 8, 190);
+    width: 80px;
+    height: 100px;
+}
